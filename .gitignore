@@ -13,3 +13,11 @@ https://cssauthor.com/mobile-app-ui-psd/
 https://freebiesbug.com/psd-freebies/ui-kit-ecommerce-mobile-app/
 
 https://downloadpsd.cc/app/ecommerce-app-ui-free-psd
+
+map resize code js
+<script>
+$(window).on("resize", function() {
+    $("#tg-map").height($(window).height());
+    map.invalidateSize();
+}).trigger("resize");
+</script>
