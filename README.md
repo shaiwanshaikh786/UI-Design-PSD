@@ -20,5 +20,7 @@ date picker time picker: http://pttimeselect.sourceforge.net/example/index.html 
 
 https://nehakadam.github.io/DateTimePicker/   https://react.rocks/tag/DatePicker
 
+Autocomplete location lat long get: https://codepen.io/CSWApps/pen/itsCf
+
 
 
